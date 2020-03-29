@@ -1,0 +1,19 @@
+{
+    "name": "lirui/php-tools",
+    "description": "Common tools class in PHP development",
+    "authors": [
+        {
+            "name": "lirui",
+            "email": "1950767658@qq.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "lirui\\tools\\": "src/"
+        }
+    }
+}
